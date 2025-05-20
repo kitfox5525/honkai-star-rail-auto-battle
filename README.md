@@ -1,4 +1,4 @@
-# zonkai-rail-star-auto-battle
+# honkai star rail auto battle
 auto battle app for lazy fellas 
 
 A simple, GUI-based automation tool to assist with grinding in **Honkai: Star Rail**. This app automates repetitive gameplay tasks such as looping battles and refilling power using screen recognition and user-configured options.
