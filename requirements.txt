@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pyautogui
+Pillow
+customtkinter
+arabic-reshaper
+python-bidi
