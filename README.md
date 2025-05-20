@@ -43,8 +43,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/hsr-automator.git
-cd hsr-automator
+git clone https://github.com/kitfox5525/zonkai-rail-star-auto-battle.git
+cd zonkai-rail-star-auto-battle
 Run the script:
 
 bash
